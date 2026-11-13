@@ -1,0 +1,14 @@
+MIMO'S — SITE ESTÁTICO (pronto para Vercel)
+
+Estrutura
+  index.html        Home + calculadora de orçamento
+  cardapio.html     Cardápios com filtro
+  assets/config.js  >>> EDITE AQUI: WhatsApp, depoimentos, doceria e preços
+  assets/site.css   Estilos
+  assets/*.js       Lógica das páginas
+  img/              Fotos (ilustrativas, tiradas do Instagram)
+  vercel.json       Configuração da Vercel (URLs limpas: /cardapio)
+
+Antes de publicar para o público
+  1. assets/config.js -> whatsapp: '5581XXXXXXXXX'
+  2. Trocar os textos entre [colchetes] (depoimentos, doceria, área de atendimento)
