@@ -41,11 +41,11 @@
       ['Fritos', 'Coxinha, camarão especial, bolinho de bacalhau'],
       ['Mini empratado (1 opção)', 'Casquinha de aratu, casquinha de caranguejo ou escondidinho de abóbora com carne seca'],
       ['Docinhos finos', 'Brigadeiro belga, bombom de nozes, bombom de pistache, trufa crocante, docinho Romeu e Julieta'], ['Bebidas', bev]] },
-    { id: 'chu', img: 'img/brasa.jpg', pitch: 'Petiscos volantes e almoço completo com picanha e contrafilé maturado.', s: [
+    { id: 'chu', img: 'img/petiscos.jpg', pitch: 'Petiscos volantes e almoço completo com picanha e contrafilé maturado.', s: [
       ['Petiscos volantes', 'Camarão Mimo’s, coxinha, croquetes, delícia sertaneja, pãozinho de alho, linguiças variadas, coalhinho maçaricado'],
       ['Almoço', 'Picanha importada, contrafilé maturado, aves e costelinha barbecue; feijão (macassar, verde ou tropeiro), arroz, farofa, vinagrete e maionese de batata'],
       ['Sobremesa', 'Doces tradicionais'], ['Bebidas', bev]] },
-    { id: 'fei', img: 'img/brasa.jpg', pitch: 'Feijoada completa com caldinho, torresmo e petiscos para abrir.', s: [
+    { id: 'fei', img: 'img/petiscos.jpg', pitch: 'Feijoada completa com caldinho, torresmo e petiscos para abrir.', s: [
       ['Petiscos volantes', 'Caldinho de feijoada, camarão Mimo’s, coxinha, croquetes, delícia sertaneja, espetinho de frango com bacon, coalhinho, mix de castanhas, beijuzinho de carne seca'],
       ['Almoço', 'Feijoada com carnes e linguiças defumadas, arroz, couve à mineira, farofa, farinha, laranja, abacaxi, vinagrete e torresmo'],
       ['Sobremesa', 'Doces tradicionais'], ['Bebidas', bev]] },
